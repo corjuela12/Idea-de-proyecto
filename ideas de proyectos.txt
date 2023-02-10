@@ -1,0 +1,37 @@
+Idea 1: VIP mascotas
+
+VIP mascotas es una aplicación que brinda servicios VIP a las mascotas, en donde se podra encontrar 
+Servicios y establecimientos 100% verificados, atención personalizada, calificar y hacer reseñas a 
+los establecimientos tambien contara con el Transporte de ida y regreso de la mascota.
+
+Aplicaciones Similares
+
+- Laika
+- Movet
+- 11 pets
+- puppis
+
+Idea 2: sports al instante
+
+es una aplicacion que le permite a los usuarios ver resultados de los partidos de varios deportes
+con exactitud, validar las estadisticas por equipos, ademas muestra las novedades de fichajes de jugadores
+y actualizaciones en sus clubes.
+
+Aplicaciones Similares
+
+- bessocer
+- flashcore
+- aiscore
+- onefootball
+
+Idea 3: cuerpo ideal
+
+Es una aplicacion que le permite a los usuarios crear una rutina de ejercicios para todo el cuerpo, 
+en donde se monitoreara los dias que el usuario haga ejercicio, ademas cuenta con un plan de 
+alimentacion saludable.
+
+Aplicaciones Similares
+
+- perder peso
+- ejercicios en casa
+- reto deportivo
